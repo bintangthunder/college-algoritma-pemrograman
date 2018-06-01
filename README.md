@@ -10,8 +10,8 @@ This is the full code of how to learn basic programming using c++ in my campus. 
 * code block
 * dev c++
 
-## Contibutors
-This material open for every contributor that want to make sure every material update.
+## How to Contibutors
+This material open for every contributor that want to make sure every material update. Please take a look at [CONTRIBUTING.md](https://github.com/bintangthunder/college-algoritma-pemrograman/CONTRIBUTING.md) to understand the contributors guidelines.
 
 ## Credit
-Credit for this code goes to IKLC USU. 
+Credit for this code goes to IKLC USU and Algoritma Pemrograman Assistand Laboratorium. 
